@@ -1,18 +1,6 @@
 defmodule KV do
   @moduledoc """
-  Documentation for KV.
+  The main module for a simple key-value store application.
   """
 
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> KV.hello()
-      :world
-
-  """
-  def hello do
-    :world
-  end
 end
